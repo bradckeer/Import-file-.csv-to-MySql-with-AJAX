@@ -9,6 +9,7 @@
 		  </button>
 		  </span>
     </div>
+	<div class="_AJAX_FILE_"></div>
   </div>
 	<p class="text-center">
   	<button type="button" class="btn btn-info btn-raised btn-sm" onclick="goSubirArvhivo()" title="Importar tabla a MySql"><i class="zmdi zmdi-upload zmdi-hc-5x"></i></button>
